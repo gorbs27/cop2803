@@ -1,0 +1,64 @@
+{
+    "transactions": [
+        {
+            "date": "11/26/2022",
+            "description": "Car Payment",
+            "type": "Withdraw",
+            "amount": 275.25
+        },
+        {
+            "date": "11/26/2022",
+            "description": "Weekly Salary",
+            "type": "Deposit",
+            "amount": 500.00
+        },
+        {
+            "date": "11/19/2022",
+            "description": "Weekly Salary",
+            "type": "Deposit",
+            "amount": 500.00
+        },
+        {
+            "date": "11/18/2022",
+            "description": "Groceries",
+            "type": "Withdraw",
+            "amount": 89.76
+        },
+        {
+            "date": "11/12/2022",
+            "description": "Weekly Salary",
+            "type": "Deposit",
+            "amount": 500.00
+        },
+        {
+            "date": "11/05/2022",
+            "description": "Weekly Salary",
+            "type": "Deposit",
+            "amount": 500.00
+        },
+        {
+            "date": "10/28/2022",
+            "description": "Weekly Salary",
+            "type": "Deposit",
+            "amount": 500.00
+        },
+        {
+            "date": "10/25/2022",
+            "description": "Dinner With Wife",
+            "type": "Withdraw",
+            "amount": 48.53
+        },
+        {
+            "date": "10/13/2022",
+            "description": "Bought New T-Shirt",
+            "type": "Withdraw",
+            "amount": 19.99
+        },
+        {
+            "date": "09/28/2022",
+            "description": "Movie Tickets",
+            "type": "Withdraw",
+            "amount": 28.00
+        }
+    ]
+}
